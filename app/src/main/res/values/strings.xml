@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVC_MVP_MVVM</string>
+    <string name="title_activity_mvvm">MvvmActivity</string>
+</resources>
