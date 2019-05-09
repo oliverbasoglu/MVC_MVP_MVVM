@@ -6,7 +6,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.obasoglu.mvc_mvp_mvvm.R;
-import com.obasoglu.mvc_mvp_mvvm.mvc.MvcActivity;
 
 public class MvpActivity extends AppCompatActivity {
 
@@ -17,8 +16,7 @@ public class MvpActivity extends AppCompatActivity {
         setTitle("MVP");
     }
 
-    public static Intent getIntent(Context context)
-    {
+    public static Intent getIntent(Context context) {
         return new Intent(context, MvpActivity.class);
     }
 }
