@@ -5,8 +5,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 import com.obasoglu.mvc_mvp_mvvm.mvc.view.MvcActivity;
-import com.obasoglu.mvc_mvp_mvvm.mvp.MvpActivity;
-import com.obasoglu.mvc_mvp_mvvm.mvvm.MvvmActivity;
+import com.obasoglu.mvc_mvp_mvvm.mvp.view.MvpActivity;
+import com.obasoglu.mvc_mvp_mvvm.mvvm.view.MvvmActivity;
 
 public class MainActivity extends AppCompatActivity {
 
